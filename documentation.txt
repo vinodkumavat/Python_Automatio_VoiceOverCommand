@@ -1,0 +1,14 @@
+Command that are taken
+    wikipedia <nameToSearch>
+    open youtube
+    open google
+    open email
+    open drive
+    college notice
+    play music
+    the time
+    open code
+    open chrome
+    send mail
+    update mail list
+    quit

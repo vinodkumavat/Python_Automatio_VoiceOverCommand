@@ -1,0 +1,22 @@
+External modules list included in project
+
+    pyttsx3
+
+    speechRecognition
+
+    PyAudio
+
+    wikipedia
+
+    for reading data from google spreadsheet
+    pip install gspread oauth2client
+
+    for reading bettery status
+    psutil
+
+Internal modules list included in project
+    datetime
+    webbrowser
+    os
+    random
+    
